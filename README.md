@@ -51,7 +51,7 @@ This approach builds upon prior work in latent space arithmetic [2][3] and direc
 - Visual continuity and semantic directionality were preserved.
 - Some desaturation and blurring were observed, consistent with bypassing the full denoising pipeline.
 
-## Next Directions
+## Next Steps
 
 ### 1. Transferable Semantic Zoom Vectors
 
